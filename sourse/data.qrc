@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ax">
+        <file>ax/c_ipch.png</file>
+    </qresource>
+</RCC>
